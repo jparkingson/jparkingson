@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5MDk1Zjk2N2E3NGQxYjk4YWI5NWVmNDc5ODUyOTc2NWUyMGFhZiZjdD1n/ve43TyDQ3B4me7d22z/giphy.gif" width="200">
 </div>
 <h1 align="center">Hi 👋, I'm Juan D. Vasquez</h1>
